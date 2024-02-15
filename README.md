@@ -7,7 +7,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 The objective was to build a regression model to predict ticket price(Fare).
 ## Description
 In this project, I conducted analysis on the titanic dataset. I trained the dataset using a linear regression on Fare using **statsmodels**. I picked Pclass, Embarked and FamilySize as my indepent variables. The analysis includes data cleaning, exploration, visualization, statistical analysis, modeling and hypothesis testing.
-## Description
+
 In this project, I conducted analysis on the Titanic dataset. I trained the dataset using linear regression to predict the Fare using the **statsmodels** library. I selected Pclass, Embarked, and FamilySize as independent variables for the regression analysis. 
 The use of statsmodels allowed for the estimation of coefficients for each independent variable, hypothesis testing of their significance, and assessment of the overall fit of the regression model. Additionally, visualizations and statistical tests were employed to further analyze the relationships between variables and interpret the results of the regression analysis.
 ### Credits
